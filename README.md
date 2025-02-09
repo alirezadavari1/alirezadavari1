@@ -1,6 +1,6 @@
 ##  who am i 🤔
 
-![GIF]([java-programming.mp4](https://github.com/alirezadavari1/alirezadavari1/blob/main/java-programming.mp4))
+![GIF](https://github.com/alirezadavari1/alirezadavari1/blob/main/java-programming.mp4)
 ___
 ### 🤙about me:
 My name is Ali Reza Davari
