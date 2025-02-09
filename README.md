@@ -1,4 +1,6 @@
 ##  who am i 🤔
+
+![GIF](java-programming.GIF)
 ___
 ### 🤙about me:
 My name is Ali Reza Davari
