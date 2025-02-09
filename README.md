@@ -1,4 +1,10 @@
 
+<p align="center" >
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4dGN0dWU4Znh1ZnQzd3F2amRpOGxoeXVtNnN3ejdyb2ZjeHBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+</p>
+
+___
+
 
 ### 🤙about me:
 My name is Ali Reza Davari
@@ -6,11 +12,7 @@ My name is Ali Reza Davari
 I am a frontend developer and I am learning different programming languages
 
 If you want to know more about me, visit my [blog](https://alirezadavari1.github.io/blog/) :)
-___
 
-<p align="center" >
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczd4dGN0dWU4Znh1ZnQzd3F2amRpOGxoeXVtNnN3ejdyb2ZjeHBkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-</p>
 
 ___
 
