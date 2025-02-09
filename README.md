@@ -1,7 +1,11 @@
 ##  who am i 🤔
 
-![GIF](https://github.com/alirezadavari1/alirezadavari1/blob/main/java-programming.mp4)
+<img   width="1000" height="500" src="2903339.jpg" />
+
 ___
+
+
+
 ### 🤙about me:
 My name is Ali Reza Davari
 
