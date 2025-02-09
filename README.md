@@ -17,3 +17,8 @@ ___
 ___
 
 ### contact me:
+<a href="https://www.facebook.com/profile.php?id=100089808941834" ><img width="50" height="50" src="icons8-facebook-96.png" /> <a/> 
+ <a href="@alirezadavari1386" ><img width="50" height="50" src="icons8-telegram-96.png" /> <a/>
+<a href="https://www.facebook.com/profile.php?id=100089808941834" ><img width="50" height="50" src="icons8-telegram-96.png" /> <a/>
+
+dd
