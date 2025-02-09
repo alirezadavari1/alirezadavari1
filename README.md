@@ -10,7 +10,7 @@ My name is Ali Reza Davari
 
 I am a frontend developer and I am learning different programming languages
 
-If you want to know more about me, visit my [blog](...) :)
+If you want to know more about me, visit my [blog](https://alirezadavari1.github.io/blog/) :)
 ___
 
 ### 💪Skills:
