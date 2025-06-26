@@ -25,6 +25,14 @@ ___
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)   ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)   ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
 ___
 
+### 📃Documents:
+![image](https://github.com/user-attachments/assets/a9529931-fb3e-4f44-b722-7933e02b4a41)
+
+___
+
+
+
+
 ### 📞 contact me:
 
  <a   href="https://www.facebook.com/profile.php?id=100089808941834" ><img  align="right"  width="50" height="50" src="icons8-facebook-96.png" /> <a/> 
