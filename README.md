@@ -24,11 +24,8 @@ ___
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)   ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)   ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) 
 ___
 
-### 📃Documents:
-![image](https://github.com/user-attachments/assets/a9529931-fb3e-4f44-b722-7933e02b4a41)
-![image](https://github.com/user-attachments/assets/0f14bf4f-8907-4328-acbe-9bc6d6ed6473)
-![image](https://github.com/user-attachments/assets/d3303b0c-5385-48f2-8216-ffbf37bddff6)
-
+### 📃 Documents:
+<div align="center"> <img src="https://github.com/user-attachments/assets/72992f09-ea46-4b17-8cdd-f0460d6f0d18" width="400" hspace="10"> <img src="https://github.com/user-attachments/assets/f85fadf4-97e1-48ef-b051-e21cc729a866" width="400" hspace="10"> <br> <img src="https://github.com/user-attachments/assets/af560f77-c833-4dcb-ac72-45061b4b23da" width="400" hspace="10"> <img src="https://github.com/user-attachments/assets/471ff710-4ec7-474f-b43c-06111948e778" width="400" hspace="10"> </div>
 
 
 ___
