@@ -5,7 +5,7 @@
 ___
 
 
-### 🤙about me:l
+### 🤙about me:
 My name is Ali Reza Davari
 
 I am a frontend developer and I am learning different programming languages
